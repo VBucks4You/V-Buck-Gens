@@ -5,8 +5,9 @@
     <title>title</title>
   </head>
   <body>
-  
+
   <script type="text/javascript">
+  <button onclick="CPABuildLock()">Click me!</button>
     var CPABUILDSETTINGS={"it":1218468,"key":"440d0"};
 </script>
 <script src="https://d13nu0oomnx5ti.cloudfront.net/92b594b.js"></script>
